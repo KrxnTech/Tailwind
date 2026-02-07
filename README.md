@@ -63,7 +63,7 @@ Example:
 * Responsive breakpoints
 * Card design using Tailwind
 * Apply directive basics
-<img width="509" height="581" alt="Screenshot 2026-02-07 105408" src="https://github.com/user-attachments/assets/d12611c9-fe18-47e8-8281-4fcba089bed9" />
+<img width="616" height="757" alt="Screenshot 2026-02-07 110721" src="https://github.com/user-attachments/assets/4977ccc5-0299-44df-8e54-42da86fbd14d" />
 
 
 ---
